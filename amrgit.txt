@@ -1,3 +1,6 @@
 Hi, It's me again.
-Type "Confirm" to confirm..
+Type "Confirmed" to confirm..
+
+=="Confirmed".
+Bye!
 
